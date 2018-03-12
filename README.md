@@ -230,7 +230,7 @@ def add_point_clusters(mapobj, gdf, popup_field_list):
 tweetmap = add_point_clusters(tweetmap, df2, ['screenname', 'name', 'location'])
 ```
 
-The last step is to add the tweetmap as a layer to a standard Leaftlet framework, and display this framework. A preview can be seen at: http://htmlpreview.github.io/?https://github.com/JTimmermans/Tweepy_map_followers/blob/master/index.html
+The last step is to add the tweetmap as a layer to a standard Leaftlet framework, and display this framework. A preview can be seen at: https://jtimmermans.github.io/Tweepy_map_followers/
 
 
 ```python
